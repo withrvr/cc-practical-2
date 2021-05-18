@@ -1,0 +1,1 @@
+web: guicorn cc_practical_2.wsgi
